@@ -1,9 +1,0 @@
-name: embedded-ml
-channels:
-  - pytorch
-  - defaults
-dependencies:
-  - python=3.11.14
-  - numpy=1.25.2
-  - pytorch=2.7.1
-  - torchvision=0.23.0
