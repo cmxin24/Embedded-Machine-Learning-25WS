@@ -49,9 +49,9 @@ The course focuses on implementing machine learning algorithms on resource-const
 |------|-------------------------------------------|----------------|
 | 01   | Generalization of Simple Regression       | ✅ Done        |
 | 02   | PyTorch Basics                            | ✅ Done        |
-| 03   | MNIST/CIFAR-10 Training I                 | 🔄 In Progresse|
-| 04   | MNIST/CIFAR-10 Training II                | ⏳             |
-| 05   | Architecture Design + Training III        | ⏳             |
+| 03   | MNIST/CIFAR-10 Training I                 | ✅ Done        |
+| 04   | MNIST/CIFAR-10 Training II                | ✅ Done        |
+| 05   | Architecture Design + Training III        | 🔄 In Progresse|
 | 06   | Quantization & Pruning I                  | ⏳             |
 | 07   | Quantization & Pruning II                 | ⏳             |
 | 08   | Advanced Neural Architectures             | ⏳             |
